@@ -19,7 +19,7 @@ int main()
     }
     else
     {
-        printf("\nThe numbers are equal to each other.");
+        printf("\nThe numbers are equal to eacssssh other.");
     }
 
     return 0;
